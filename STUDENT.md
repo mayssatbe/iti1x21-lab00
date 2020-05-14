@@ -1,8 +1,9 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
-Course code: ITI1121
-Lab: Lab00
+Student name: Mayssa Tebourbi
+Student number: 300147817
+Course code: ITI1521
+Lab: Lab01
 Course section: 02
 Java: 1.8
+
 ```
